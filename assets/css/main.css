@@ -112,13 +112,13 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 20pt;
+		font-size: 16pt;
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 18pt;
+				font-size: 12pt;
 			}
 
 		}
@@ -126,7 +126,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 16pt;
+				font-size: 8pt;
 			}
 
 		}
@@ -134,7 +134,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			html {
-				font-size: 10pt;
+				font-size: 8pt;
 			}
 
 		}
@@ -1607,7 +1607,7 @@ input, select, textarea {
 	z-index:2;
 }
 nav ul li a i {
-	margin-top: 15px;
+	margin-top: 10%;
 }
 hr{
 	margin: 0;
